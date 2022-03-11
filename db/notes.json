@@ -1,12 +1,29 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test Text"
+      "title": "Call bank on Friday",
+      "text": "don't forget to call the bank friday",
+      "id": "0"
     },
     {
-      "title": "First Note",
-      "text": "First Text"
+      "title": "Reschedule deliver",
+      "text": "reschedule that delivery",
+      "id": "1"
+    },
+    {
+      "title": "Finish payroll",
+      "text": "pay your people",
+      "id": "2"
+    },
+    {
+      "title": "Check in with clients",
+      "text": "they miss you",
+      "id": "3"
+    },
+    {
+      "title": "Client lunch on thursday",
+      "text": "with connor don't forget",
+      "id": "4"
     }
   ]
 }
